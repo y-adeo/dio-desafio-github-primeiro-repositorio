@@ -1,5 +1,5 @@
 # Desafio de Projeto Git e GitHub da DIO
-## Digital Innovation One
+## NTT DATA Android Developer
 Repositório criado para o desafio de Projeto - Git/GitHub 
 
 ### Links para estudo aprofundado
