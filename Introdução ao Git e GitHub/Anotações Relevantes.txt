@@ -1,6 +1,10 @@
-Acrescentar Infos sobre o Git
+Comandos em Git
 
-Resumos 
+ Ajuda
+  git help add
+  git help commit
+  git help <qualquer_comando_git>
 
-Comandos Básicos
-
+Configuração
+ Setar usuário
+  git config --global user.name "Leonardo Comelli"
