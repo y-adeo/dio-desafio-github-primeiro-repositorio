@@ -1,5 +1,5 @@
 # Desafio de Projeto Git e GitHub da DIO
-## NTT DATA Android Developer
+## Bootcamp Digital Innovation One
 Repositório criado para o desafio de Projeto - Git/GitHub 
 
 ### Links para estudo aprofundado
