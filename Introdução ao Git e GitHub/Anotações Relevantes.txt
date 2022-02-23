@@ -1,10 +1,26 @@
 Comandos em Git
 
- Ajuda
+- Ajuda
   git help add
   git help commit
   git help <qualquer_comando_git>
 
-Configuração
- Setar usuário
-  git config --global user.name "Leonardo Comelli"
+- Configuração
+  
+  Setar usuário
+   git config --global user.name "Yasmin Adeo"
+ 
+ Setar email
+   git config --global user.email yasmin.adeo@hotmail.com
+ 
+ Setar editor
+  git config --global core.editor vim
+ 
+ Setar arquivos a serem ignorados
+  git config --global core.excludesfile ~/.gitignore
+ 
+ Listar configurações
+  git config --list
+    
+  
+ 
